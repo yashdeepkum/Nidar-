@@ -1,5 +1,5 @@
 # Nidar-
-This is a person detection software using cpp.
+This is a person detection software using cpp./n
 This uses yolov5s model for detection of person.
 It consists of a cmake file,a main.cpp file and yolov5s model.
 To run this you must have opencv installed in your system.
